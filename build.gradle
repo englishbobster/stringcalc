@@ -6,10 +6,9 @@ plugins {
 group 'stos.kata'
 version '1.0-SNAPSHOT'
 
-sourceCompatibility = 1.11
+sourceCompatibility = 1.16
 
 repositories {
-    jcenter()
     mavenCentral()
 }
 
